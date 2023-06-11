@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/aclonica1</item>
+        <item>@font/hachi_maru_pop</item>
+        <item>@font/macondo_swash_caps</item>
+    </array>
+</resources>
